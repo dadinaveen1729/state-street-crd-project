@@ -1,0 +1,5 @@
+Client_ID,Region,Asset_Class,AUM_USD_Million,Daily_Recon_Status,Break_Count,Date
+101,North America,Equity,150.25,Matched,0,2025-08-05
+102,Europe,Fixed Income,98.5,Unmatched,3,2025-08-05
+103,Asia,Equity,120.0,Matched,1,2025-08-05
+104,North America,Derivatives,75.75,Unmatched,2,2025-08-05
