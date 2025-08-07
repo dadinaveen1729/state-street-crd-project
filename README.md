@@ -56,7 +56,7 @@ See [`powerbi_dashboards/dashboard_explanation.md`](powerbi_dashboards/dashboard
 
 ---
 
-## ✅ Impact (Story Format)
+## ✅ Impact 
 
 We kicked off with accounting leads struggling to get real-time visibility into daily reconciliation breaks. Our goal was to automate the process and build a unified dashboard using CRD's Alpha platform capabilities.
 
@@ -84,4 +84,3 @@ This project demonstrates:
 
 ---
 
-Want to see the code or walk through this in your interview? Clone the repo and explore each piece.
